@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-04T17:13:03-05:00
+
+====== Home ======
+Created Wednesday 04 December 2019
+
+[[:Inventory]]
+
+Max HP: 38
+
+===== Short Rest =====
+[[:Wild Shape]] (2 charges)
+[[:Hidden Step]]
+[[:Firbolg Magic]]
+
+===== Long Rest =====
+Spells
+[[:Balm of the Summer Court]] (6 charges)
+
+
+
+==== 2019/12/4 ====
+Staying in Vlakki at the Blue Water Inn owned by Irwin
+Return saint's bones to Father Lucian Petrovich
+
+Vasili Von Holtz affiliated with the Vestani brought the undertaker the coffins of the vampire spawn
+[[:Barez]]
+Searching for Wizard's Winery
+Found ruined mansion [[:Argynvostholt]]
+Found Savid the dusk elf
+
+25 Goodberries

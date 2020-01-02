@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-04T17:29:30-05:00
+
+====== Hidden Step ======
+Created Wednesday 04 December 2019
+
+As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.

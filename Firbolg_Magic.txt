@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-04T17:32:06-05:00
+
+====== Firbolg Magic ======
+Created Wednesday 04 December 2019
+
+Cast detect magic or disguise self. Refreshes on short or long rest.
